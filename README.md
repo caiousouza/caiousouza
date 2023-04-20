@@ -18,9 +18,9 @@
 
 </br>
 
-<div>
-  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=caiousouza&show_icons=true&theme=graywhite" alt="My stats" />
-  <img height="45%" src="https://github-readme-streak-stats.herokuapp.com?user=caiousouza&theme=graywhite" alt="My contributions" />
+<div aligh="center">
+  <img height="170pc" src="https://github-readme-stats.vercel.app/api?username=caiousouza&show_icons=true&theme=graywhite" alt="My stats" />
+  <img align="right" height="170px%" src="https://github-readme-streak-stats.herokuapp.com?user=caiousouza&theme=graywhite" alt="My contributions" />
 </div>
 
 <div  align="center"> 
