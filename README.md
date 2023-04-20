@@ -38,8 +38,9 @@
   <img align="center" height="30" width="40" alt="MongoDB" src="https://icongr.am/devicon/git-plain.svg?size=100&color=ffffff">
   <img align="center" height="30" width="40" alt="MongoDB" src="https://icongr.am/simple/linux.svg?size=100&color=ffffff&colored=false">
 </div>
-
-<br>
+</br></br>
+  
+  ![Snake animation](https://github.com/caiousouza/caiousouza/blob/output/github-contribution-grid-snake.svg)
   
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=caiousouza&&style=flat-square" alt="Profile views count"/>
