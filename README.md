@@ -25,7 +25,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caiousouza&show_icons=true&langs_count=10&layout=compact&theme=graywhite&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages">
+    <img align="left" height="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caiousouza&show_icons=true&langs_count=10&layout=compact&theme=graywhite&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages">
     <h1 align="center">Tecnologias que estudo atualmente 🐱‍💻 </h1>
   <img align="center" height="30" width="40" alt="Csharp" src="https://icongr.am/devicon/csharp-line.svg?size=100&color=ffffff">
   <img align="center" height="30" width="40" alt="NodeJs" src="https://icongr.am/devicon/nodejs-plain.svg?size=100&color=ffffff">
