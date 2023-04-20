@@ -5,14 +5,14 @@
   <a href="mailto: caiousouza@gmail.com">
       <img width="30" src="https://icongr.am/simple/gmail.svg?size=30&color=ffffff&colored=false">
   </a>
-  <a href="https://www.linkedin.com/in/caio-souza-queiroz-020691163/">
-      <img width="30" src="https://icongr.am/devicon/linkedin-plain.svg?size=30&color=ffffff">
-  </a>
   <a href="https://github.com/caiousouza">
       <img width="30" src="https://icongr.am/simple/github.svg?size=100&color=ffffff&colored=false">
   </a>
   <a href="https://www.instagram.com/kayn_dsi/">
       <img width="30" src="https://icongr.am/simple/instagram.svg?size=100&color=ffffff&colored=false">
+  </a>
+  <a href="https://www.linkedin.com/in/caio-souza-queiroz-020691163/">
+      <img width="30" src="https://icongr.am/devicon/linkedin-plain.svg?size=30&color=ffffff">
   </a>
 </div>
 
