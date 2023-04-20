@@ -15,8 +15,7 @@
       <img width="30" src="https://icongr.am/devicon/linkedin-plain.svg?size=30&color=ffffff">
   </a>
 </div>
-</br>
-</br>
+</br></br>
 
 <div aligh="center">
   <img height="160pc" src="https://github-readme-stats.vercel.app/api?username=caiousouza&show_icons=true&theme=graywhite" alt="My stats" />
@@ -26,7 +25,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caiousouza&show_icons=true&langs_count=10&layout=compact&theme=graywhite&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages">
-    <h1 align="center">Tecnologias que estudo atualmente 🐱‍💻 </h1>
+    <h1 align="center">Tecnologias que estudo atualmente 🐱‍💻</h1>
   <img align="center" height="30" width="40" alt="Csharp" src="https://icongr.am/devicon/csharp-line.svg?size=100&color=ffffff">
   <img align="center" height="30" width="40" alt="NodeJs" src="https://icongr.am/devicon/nodejs-plain.svg?size=100&color=ffffff">
   <img align="center" height="30" width="40" alt="Html5" src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=100&color=ffffff">
@@ -36,7 +35,7 @@
   <img align="center" height="30" width="40" alt="MongoDB" src="https://icongr.am/devicon/mongodb-plain.svg?size=100&color=ffffff">
   <img align="center" height="30" width="40" alt="MySQL" src="https://icongr.am/devicon/mysql-plain.svg?size=100&color=ffffff">
   <img align="center" height="30" width="40" alt="Git" src="https://icongr.am/devicon/git-plain.svg?size=100&color=ffffff">
-    <img align="center" height="30" width="40" alt="GitHub" src="https://icongr.am/simple/github.svg?size=100&color=ffffff&colored=false">
+  <img align="center" height="30" width="40" alt="GitHub" src="https://icongr.am/simple/github.svg?size=100&color=ffffff&colored=false">
   <img align="center" height="30" width="40" alt="Linux" src="https://icongr.am/simple/linux.svg?size=100&color=ffffff&colored=false">
 </div>
 </br></br>
