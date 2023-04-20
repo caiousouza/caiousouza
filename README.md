@@ -15,7 +15,7 @@
       <img width="30" src="https://icongr.am/devicon/linkedin-plain.svg?size=30&color=ffffff">
   </a>
 </div>
-
+</br>
 </br>
 
 <div aligh="center">
@@ -34,9 +34,10 @@
   <img align="center" height="30" width="40" alt="JavaScript" src="https://icongr.am/devicon/javascript-plain.svg?size=100&color=ffffff">
   <img align="center" height="30" width="40" alt="Docker" src="https://icongr.am/devicon/docker-plain-wordmark.svg?size=100&color=ffffff">
   <img align="center" height="30" width="40" alt="MongoDB" src="https://icongr.am/devicon/mongodb-plain.svg?size=100&color=ffffff">
-  <img align="center" height="30" width="40" alt="MongoDB" src="https://icongr.am/devicon/mysql-plain.svg?size=100&color=ffffff">
-  <img align="center" height="30" width="40" alt="MongoDB" src="https://icongr.am/devicon/git-plain.svg?size=100&color=ffffff">
-  <img align="center" height="30" width="40" alt="MongoDB" src="https://icongr.am/simple/linux.svg?size=100&color=ffffff&colored=false">
+  <img align="center" height="30" width="40" alt="MySQL" src="https://icongr.am/devicon/mysql-plain.svg?size=100&color=ffffff">
+  <img align="center" height="30" width="40" alt="Git" src="https://icongr.am/devicon/git-plain.svg?size=100&color=ffffff">
+    <img align="center" height="30" width="40" alt="GitHub" src="https://icongr.am/simple/github.svg?size=100&color=ffffff&colored=false">
+  <img align="center" height="30" width="40" alt="Linux" src="https://icongr.am/simple/linux.svg?size=100&color=ffffff&colored=false">
 </div>
 </br></br>
   
