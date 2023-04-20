@@ -1,6 +1,6 @@
 ### Olá, sou Caio Souza 👋🐱‍👤
 
-<div align="center">
+<div>
   <h1 align="center">Minhas Redes Sociais</h1>
   <a href="mailto: caiousouza@gmail.com">
       <img width="30" src="https://icongr.am/simple/gmail.svg?size=30&color=ffffff&colored=false">
@@ -15,10 +15,12 @@
       <img width="30" src="https://icongr.am/simple/instagram.svg?size=100&color=ffffff&colored=false">
   </a>
 </div>
+
 </br>
+
 <div>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=caiousouza&show_icons=true&theme=graywhite" alt="My stats" />
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=caiousouza&theme=graywhite" alt="My contributions" />
+  <img height="185px" src="https://github-readme-stats.vercel.app/api?username=caiousouza&show_icons=true&theme=graywhite" alt="My stats" />
+  <img align="right" height="185px" src="https://github-readme-streak-stats.herokuapp.com?user=caiousouza&theme=graywhite" alt="My contributions" />
 </div>
 
 <div  align="center"> 
